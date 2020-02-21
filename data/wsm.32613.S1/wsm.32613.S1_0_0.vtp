@@ -1,0 +1,164 @@
+<VTKFile type="PolyData" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <PolyData>
+    <Piece NumberOfPoints="45"                   NumberOfVerts="45"                   NumberOfLines="0"                    NumberOfStrips="0"                    NumberOfPolys="0"                   >
+      <PointData>
+      </PointData>
+      <CellData>
+        <DataArray type="Int32" Name="AZI" format="appended" RangeMin="1"                    RangeMax="175"                  offset="0"                   >
+        </DataArray>
+        <DataArray type="Float32" Name="BOT" format="appended" RangeMin="1434"                 RangeMax="1486"                 offset="188"                 >
+        </DataArray>
+        <Array type="String" Name="BOUNDARY" format="appended" offset="376"                 />
+        <Array type="String" Name="COMMENT" format="appended" offset="564"                 />
+        <Array type="String" Name="COUNTRY" format="appended" offset="2945"                />
+        <DataArray type="Float32" Name="DEPTH" format="appended" RangeMin="0"                    RangeMax="33"                   offset="3583"                >
+        </DataArray>
+        <DataArray type="Float32" Name="DIP" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3771"                >
+        </DataArray>
+        <DataArray type="Float32" Name="DIPAZ" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3959"                >
+        </DataArray>
+        <DataArray type="Int32" Name="DIST" format="appended" RangeMin="92"                   RangeMax="1583"                 offset="4147"                >
+        </DataArray>
+        <Array type="String" Name="ID" format="appended" offset="4335"                />
+        <DataArray type="Int32" Name="LAST_MOD" format="appended" RangeMin="19930706"             RangeMax="20150811"             offset="4748"                >
+        </DataArray>
+        <DataArray type="Float32" Name="LAT" format="appended" RangeMin="40.180000305"         RangeMax="45.369998932"         offset="4936"                >
+        </DataArray>
+        <DataArray type="Float32" Name="LON" format="appended" RangeMin="-123.88999939"        RangeMax="-103.80000305"        offset="5124"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S1" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="5312"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S2" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="5500"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="5688"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MOM" format="appended" RangeMin="1.7000000477"         RangeMax="1.7000000477"         offset="5876"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MOM_EXP" format="appended" RangeMin="23"                   RangeMax="23"                   offset="6064"                >
+        </DataArray>
+        <Array type="String" Name="NEW" format="appended" offset="6252"                />
+        <DataArray type="Float32" Name="NO_MAG_VEN" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="6405"                >
+        </DataArray>
+        <DataArray type="Float32" Name="NUMBER" format="appended" RangeMin="1"                    RangeMax="9"                    offset="6593"                >
+        </DataArray>
+        <Array type="String" Name="PBE" format="appended" offset="6781"                />
+        <DataArray type="Float32" Name="PLATE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="6924"                >
+        </DataArray>
+        <DataArray type="Float32" Name="POISSON" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7112"                >
+        </DataArray>
+        <DataArray type="Float32" Name="PORE_MAGIN" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7300"                >
+        </DataArray>
+        <DataArray type="Float32" Name="PORE_SLOPE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7488"                >
+        </DataArray>
+        <Array type="String" Name="QUALITY" format="appended" offset="7676"                />
+        <DataArray type="Float32" Name="RATIO" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7774"                >
+        </DataArray>
+        <Array type="String" Name="REGIME" format="appended" offset="7962"                />
+        <DataArray type="Float32" Name="S1AZ" format="appended" RangeMin="11"                   RangeMax="357"                  offset="8105"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S1PL" format="appended" RangeMin="54"                   RangeMax="88"                   offset="8293"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S2AZ" format="appended" RangeMin="2"                    RangeMax="353"                  offset="8481"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S2PL" format="appended" RangeMin="0"                    RangeMax="35"                   offset="8669"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S3AZ" format="appended" RangeMin="27"                   RangeMax="334"                  offset="8857"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S3PL" format="appended" RangeMin="2"                    RangeMax="23"                   offset="9045"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SAMP_INT" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9233"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SD" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9421"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SD_WEIGHT" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9609"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES1" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9797"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES2" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9985"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="10173"               >
+        </DataArray>
+        <DataArray type="Float32" Name="TOP" format="appended" RangeMin="1391"                 RangeMax="1428"                 offset="10361"               >
+        </DataArray>
+        <DataArray type="Float32" Name="TOT_LEN" format="appended" RangeMin="44"                   RangeMax="58"                   offset="10549"               >
+        </DataArray>
+        <Array type="String" Name="TYPE" format="appended" offset="10737"               />
+        <DataArray type="Float32" Name="Unnamed: 60" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="10922"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 61" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="11110"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 62" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="11298"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 63" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="11486"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 64" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="11674"               >
+        </DataArray>
+        <DataArray type="Float32" Name="YOUNG" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="11862"               >
+        </DataArray>
+        <DataArray type="Float32" Name="vector" NumberOfComponents="3" format="appended" RangeMin="0"                    RangeMax="1.0000000251"         offset="12050"               >
+          <InformationKey name="L2_NORM_FINITE_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0
+            </Value>
+            <Value index="1">
+              1.0000000251
+            </Value>
+          </InformationKey>
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0
+            </Value>
+            <Value index="1">
+              1.0000000251
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="appended" RangeMin="4601256.9402"         RangeMax="5052688.2682"         offset="12598"               >
+          <InformationKey name="L2_NORM_FINITE_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              4601256.9402
+            </Value>
+            <Value index="1">
+              5052688.2682
+            </Value>
+          </InformationKey>
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              4601256.9402
+            </Value>
+            <Value index="1">
+              5052688.2682
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </Points>
+      <Verts>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="13146"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="13514"               />
+      </Verts>
+      <Lines>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="13882"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="13890"               />
+      </Lines>
+      <Strips>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="13898"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="13906"               />
+      </Strips>
+      <Polys>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="13914"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="13922"               />
+      </Polys>
+    </Piece>
+  </PolyData>
+  <AppendedData encoding="raw">
+   _¥       ò   ò   	      ê      Æ   £         É         ≠         †      %   ô         Ü   ®      H      2   ñ               ß   å   ñ      Ø   ß   @         f   s      ¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿ ¿πD  ¿  ¿  ¿  ¿  ¿  ¿ @≥D  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥       SUB SUB CTF CCB SUB CCB SUB SUB CCB SUB SUB CTF SUB CCB CTF CTF SUB CTF CTF CTF CCB CTF SUB CTF CTF CTF SUB CTF CCB CCB CCB CCB CTF SUB SUB CTF CTF CCB CCB SUB CCB CTF SUB SUB CCB E	      alinement of cindercones - open fissures - normal faults in rift zone crossing plain PATTZA91 #2 solution preferred DOSESM89 #PO1 Composite based on four days of recording with 6 stations  CMT-Sol.- EventID: C200507260408A- MS=5.20 CMT-Sol. EventID: B042101E MS=4.90 Sh - S1AZ and S1PL are taken from Fig.3 Sh - S1AZ and S1PL are taken from Fig.3 CMT-Sol. EventID: C010704A MS=4.80 Geofon-Sol.EventID:gfz2012dcel Geofon-Sol.EventID:gfz2015afac GCMT-Sol.EventID:C201501220909A PATTZA91 #6 solution preferred - significantly different than poorly constrained First motion solution. PATTZA91 #95 - possible aftershock of 680530 Adel eq - OR 1 GCMT-Sol.EventID:C201411050723A GCMT-Sol.EventID:C201411130636A Based on alignment of rhyolite domes - trend of young faults - need more details. Reg. assigned individually. GCMT-Sol.EventID:C200801192313A PATTZA91 #14 PATTZA91 #74 GCMT-Sol.EventID:C200804300303A PATTZA91 #54 PATTZA91 #83 PATTZA91 #96 GCMT-Sol.EventID:C200802211416A fracture logged by televiewer in geothermal area - possibly pre-existing fracture Reg. assigned individually. GCMT-Sol.EventID:C201404142016A Reg. assigned individually. striae on brecciated bedrock scarp in road cut along segment of Wasatch with evidence of Holocene movement striae on brecciated bedrock fault surface exposed in gravel quarry - along strike with L. Pleist. scarps striae along bedrock fault surface exposed in gravel quarry - along strike of scarps with 2-3 m Holocene movement GCMT-Sol.EventID:C201004152359A new drilling induced HF in geothermal area - logged by televiewer Reg. assigned individually. Reg. assigned individually. Reg. assigned individually. based on dikes and cindercone alignments Reg. assigned individually. Avg.T-axis of several microearthq. focal mechanisms - consistent with trends of inferred tectonic cracks and Quat. faultin Avg. of 3 composites -  similar depth - 2NF(P:194/48 T:99/5 - P:32/77 T:262/9) and one TF (P:346/10 - T:97/64) Reg. assigned ind All events <=14km - most 5.0km deep. TRIMSM75 #A - no further details given - most other composites in this paper along Hegben Lake aftershocks Events 4.8-15.8km deep - ARABSM79 #a PATTZA91 #99 - contractional CLVD moment = 0.6 of double-couple moment Largest historic event in intermountain region Long-period body-wave modeling - DOSESM89 #BP1 Depth poorly determined - aftershocks 3-16 km depth v      United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States ¥             pA33A   A  @A  pA  A  A  @A  ËA  êA33;A  A  †AÕÃÃ=        öô9@  0A  †@ÕÃËA  †@   A  †@ff÷@öôπ?ÕÃÏ@ÖÎÒ?            ÕÃ¸@·z¥?                ffˆ@  †@  @@ÕÃ$A  B   A  ÄA    ¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥       —  O  À  F  Ô  L      ¨  \   h  µ  º  ∑  ∑  ∑  å  ~   =  Â   a   Î  y    Ë  ó  i  /  ã  ≠  ¯  ‘  ó  #    ?  £  j  ´  K  ª  ;  _  í  ⁄  ï      wsm04632 wsm04631 wsm04990 wsm04989 wsm14879 wsm08181 wsm07856 wsm07855 wsm12603 wsm30503 wsm37700 wsm37784 wsm01258 wsm01237 wsm34937 wsm34984 wsm20431 wsm25172 wsm00960 wsm00948 wsm25529 wsm00938 wsm00933 wsm00891 wsm25274 wsm04059 wsm33889 wsm03883 wsm03777 wsm03776 wsm03775 wsm27954 wsm04060 wsm03918 wsm03917 wsm03983 wsm19379 wsm19388 wsm02755 wsm02784 wsm02756 wsm03053 wsm03065 wsm03002 wsm03003 ¥       ÿE0ÿE08F08F0Ûg2õ¢1
+/1
+/1≥Ù1…y3z3z3R0R0…y3…y3>)3…y3R0R0…y3R0R0R0…y3◊E0…y3◊E0”E0”E0”E0…y3◊E0◊E0◊E0◊E0ˆg2ˆg2œE0œE0œE0–E0–E0–E0–E0¥       Æ-B331BÕÃ(B  ,B·z5B{,BÆG)B§p)B)\.BÖ$BÖÎ1BÖ'B33)BÕÃ(B◊£'Böô'BH·1BR∏ B·z#B◊£$B)\#B§p'Bè¬1B33'Böô$BÕÃ(Bff2Bff1B)\%BŸŒ&Böô(BÕÃ&BÕÃ(B1à(BúD)B  'B  #BÆ,Böô'B333BÕÃ&B  $B  3B;ﬂ/B33(B¥       Ök‚¬ffÂ¬  ·¬ÕÃﬁ¬ö·¬{îﬁ¬\Ù¬∏Ù¬·z‹¬Æ«˜¬3≥‰¬èBÔ¬öôÔ¬öôÔ¬q=Ô¬q=Ô¬ÕL›¬ffı¬ÖÍ¬H·Û¬  ˜¬Ï—Ì¬ÕL‰¬  Ì¬qΩÂ¬öô‚¬ˆ®‰¬öôœ¬\‡¬◊#‡¬Öﬁ¬.ﬁ¬öô‚¬≤]Û¬öôÛ¬  ⁄¬ ÄÓ¬è¬›¬ÏQ·¬)‹ﬁ¬ffﬂ¬ÕÃÍ¬)\ﬁ¬JÃ„¬öôﬂ¬¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥       öôŸ?  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ∏A  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿ë       NO NO NO NO NO NO NO NO NO YES YES YES NO NO YES YES NO YES NO NO YES NO NO NO YES NO YES NO NO NO NO YES NO NO NO NO NO NO NO NO NO NO NO NO NO ¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  Ä?  ¿  ¿  ¿  ¿  @@  ¿  ¿  A  ¿  ¿  ¿  ¿á       NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO ¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿Z       A C C D C C C C C C C C C C C C A C C C C C C C C D C D B B B C C B B B D D D D D C C C C ¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿á       NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF NF ¥        ÄñC ÄñC  iC  *C  ¨C  àA  .C  #C ÄöC  VC Ä≤C  ØC  sC   B  ñC  ôC   C  IC Ä≤C  C ÄßC  yC  B  aC  ∂B  ¿  B  ¿  0A  'C  üC  ùC  ¿  ¿  ¿  ¿  ¿  ¿ Ä™C  LC  áC  EC  @A  ˛B   B¥         `B  dB  åB  ñB  dB  §B  ∞B  åB  êB  îB  †B  hB  pB  íB  öB  ñB  ¿  åB  \B  pB  ÜB  ñB  úB  §B  ®B  ¿  lB  ¿  òB  îB  ûB  öB  ¿  ¿  ¿  ¿  ¿  ¿  dB  §B  ñB  XB  ñB  äB  öB¥         C  C  A  @A  C  5C  ¿  ¿  5C  ¿A  C  FC  ‡@ Ä∞C  <C  AC  ¿  ‡@  YC Ä¶C  5C  ®A  ùC  ÆC  OC  ¿ ÄôC  ¿  C   @  7C  CC  ¿  ¿  ¿  ¿  ¿  ¿  &C  ÇB  ¿@  †@  çC ÄìC  0A¥         A  ËA  pA  `A  ¯A  A  ¿  ¿  @A  ÄA  ‡@  ËA  êA  †@  †@  ¿@  ¿  òA  ‡A  ËA  ®A   A  @A  Ä@  @@  ¿  ¯A  ¿   A  pA   A  ¿@  ¿  ¿  ¿  ¿  ¿  ¿  B  ¿@  Ä?  B      ®A    ¥         XB  XB  ÃB ÄãC  pC  àC  ¿  ¿  ∞B  ÊB  ^C   B  “B ÄÇC  ¬B  ÃB  åB  ƒB  ËB  oC  ∞B  ‚B  _C  úB ÄîC  ¿  WC  ¿  pC ÄáC  ∏B  ŒB  ¿  ¿  ¿  ¿  ¿  ¿ ÄÄC  ßC  ¿B  ∆B  @C  ÿA ÄåC¥         `A  PA  PA   A  A  @@  ¿  ¿  `A  @@  ‡@  @A  ∏A  ÄA  @A  PA  ¿  Ä@  òA   A  A  0A  @@  ¿@  ¿@  ¿  @@  ¿   A  Ä@   A  0A  ¿  ¿  ¿  ¿  ¿  ¿   @   A  pA  ¿@  pA  Ä@  PA¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿ Ä≤D  ¿  ¿  ¿  ¿  ¿  ¿ ‡≠D  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  hB  ¿  ¿  ¿  ¿  ¿  ¿  0B  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿±       GVA FMS FMS FMA FMS FMS FMS FMS FMS FMS FMS FMS FMS FMS FMS FMS GVA FMS FMS FMS FMS FMS FMS FMS FMS HF FMS OC GFM GFM GFM FMS HF GFS GFS GVA FMA FMA FMA FMA FMA FMS FMS FMS FMS ¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿¥         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿      ≠iıæzuì>Œ;TøäÔæ¸ûè>≥Vø>⁄ãæŸ≈Ræ≤èpø°8=çÄÇæÍFwøœπæ¬?≥VøŸ™&=>I>5Ç}ø!o;N*Ωÿø<ÀÃ=pvßæ≤èpø:ÍuæS#G>qxsøl’æÄˇiæ?vøÊºqí1>\|ø∫tºΩ.ô?ÆYø‰æqqhæ◊≥]ø™Òí>ÅdΩc–tø%}GæíYÊ=QpyøjVæ˘«>ÍFwø            |˚Ωπ{£æ≤èpø∑Èıºd¢?Û≥Qø"’±>ß&∏æ◊≥]øﬁ)æëOµ>5¶køomwæˇÙΩΩÍFwø–`8>ÕÊ‘Ω‚gzøOã…ΩOã…Ω5Ç}ø¨
+÷=sÔ∫˝ò~ø            ◊^‰>âŸÉæQo[ø            /==3-s>Mexø›¯}=_Çâæ?vøâΩæØ3>ÎK{ø(≥%æ¥ >Qpyø                                                                        üí5æ’‘?≥Vøà‹gΩ=1æ5Ç}øÓÉÑæ   ÄÍFwøÈ˘/æËÂøΩOøti\=úûÅ>ÍFwøÉâí>Íÿ\æ ˇnø"b>≤œ/ΩQpyø      õﬁ »Ë∂ìJV5ÀD∂Ö»˛óJ^G∆£È«<ièJX?÷≈á¬©∆uÂëJØ:˘≈∞≤«ù+öJ%c#∆¬D∆ÄÒëJä–H∆”Ú\…íWìJ»‚≈CT]…b~ìJ^≥Â≈XñG≤ìJÚ_∆ÊÑ…®PêJìﬁ∆õÊm»®õóJ¨Ss∆?û.…Ë∞êJó·∆€0…≠1íJ“ûÍ≈~à0…±⁄ëJ˝»ê∆ŸE.…·…êJ˜`’D˙Q.…-¡êJFsÁD≈°EG“æñJzELæv…ÁhåJ¢≈l…§LåJ0ï∆âa…IYèJÙ“a≈  Å…TèJx£›∆U …PêJv§a≈€^»¬jóJO⁄∆`…pèJê„O≈XÑ†»våJÒEò≈R5»`ôèJÄ4Å¡”ÿj»`òJdC¢≈úkI∞‚ïJ V€¬™ö¨«∞dåJõä®D˚Ø¨«°çJﬁU≥DSá∆˜¸éJ,…ÎD8|’≈nnçJ¿,∏≈R5»`ôèJÄÀæAE¯V…áíJº&ûD∑RX…ä6ìJ˛ÆDD{#H˙IçJœê E ,…ŸÆåJ∂=§D‹‡´F≤`íJ¢≠≈πf»néJÃ´S≈.ñ∆'òJÏ@^ƒ˝a«åçJà∑˛≈iÕ…ˆ åJVŒˆ∆ø(Fª…óJfÑ˘≈¡ÔP»µøïJ
+‡W∆©Üu«ı¿éJúS…Dh                                                                      	       
+                                                                                                                                                                  !       "       #       $       %       &       '       (       )       *       +       ,       h                                                              	       
+                                                                                                                                                                  !       "       #       $       %       &       '       (       )       *       +       ,       -                                                       
+  </AppendedData>
+</VTKFile>

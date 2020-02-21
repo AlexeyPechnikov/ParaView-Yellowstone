@@ -1,0 +1,171 @@
+<VTKFile type="PolyData" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <PolyData>
+    <Piece NumberOfPoints="53"                   NumberOfVerts="53"                   NumberOfLines="0"                    NumberOfStrips="0"                    NumberOfPolys="0"                   >
+      <PointData>
+      </PointData>
+      <CellData>
+        <DataArray type="Int32" Name="AZI" format="appended" RangeMin="2"                    RangeMax="999"                  offset="0"                   >
+        </DataArray>
+        <DataArray type="Float32" Name="BOT" format="appended" RangeMin="476"                  RangeMax="2708"                 offset="220"                 >
+        </DataArray>
+        <Array type="String" Name="BOUNDARY" format="appended" offset="440"                 />
+        <Array type="String" Name="COMMENT" format="appended" offset="660"                 />
+        <Array type="String" Name="COUNTRY" format="appended" offset="4038"                />
+        <DataArray type="Float32" Name="DEPTH" format="appended" RangeMin="0"                    RangeMax="8"                    offset="4718"                >
+        </DataArray>
+        <DataArray type="Float32" Name="DIP" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="4938"                >
+        </DataArray>
+        <DataArray type="Float32" Name="DIPAZ" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="5158"                >
+        </DataArray>
+        <DataArray type="Int32" Name="DIST" format="appended" RangeMin="15"                   RangeMax="1247"                 offset="5378"                >
+        </DataArray>
+        <DataArray type="Float32" Name="EQ_AVG" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="5598"                >
+        </DataArray>
+        <Array type="String" Name="ID" format="appended" offset="5818"                />
+        <Array type="String" Name="ISO" format="appended" offset="6303"                />
+        <DataArray type="Int32" Name="LAST_MOD" format="appended" RangeMin="19930706"             RangeMax="20080620"             offset="6689"                >
+        </DataArray>
+        <DataArray type="Float32" Name="LAT" format="appended" RangeMin="39.875999451"         RangeMax="44.919998169"         offset="6909"                >
+        </DataArray>
+        <DataArray type="Float32" Name="LON" format="appended" RangeMin="-125.18299866"        RangeMax="-108.30000305"        offset="7129"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S1" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7349"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S2" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7569"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="7789"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MOM" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="8009"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MOM_EXP" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="8229"                >
+        </DataArray>
+        <Array type="String" Name="NEW" format="appended" offset="8449"                />
+        <DataArray type="Float32" Name="NO_MAG_VEN" format="appended" RangeMin="5"                    RangeMax="150"                  offset="8616"                >
+        </DataArray>
+        <DataArray type="Float32" Name="NUMBER" format="appended" RangeMin="0"                    RangeMax="26"                   offset="8836"                >
+        </DataArray>
+        <Array type="String" Name="PBE" format="appended" offset="9056"                />
+        <DataArray type="Float32" Name="PLATE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9223"                >
+        </DataArray>
+        <DataArray type="Float32" Name="POISSON" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9443"                >
+        </DataArray>
+        <DataArray type="Float32" Name="PORE_MAGIN" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9663"                >
+        </DataArray>
+        <DataArray type="Float32" Name="PORE_SLOPE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="9883"                >
+        </DataArray>
+        <Array type="String" Name="QUALITY" format="appended" offset="10103"               />
+        <DataArray type="Float32" Name="RATIO" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="10217"               >
+        </DataArray>
+        <Array type="String" Name="REF1" format="appended" offset="10437"               />
+        <DataArray type="Float32" Name="REF3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="10979"               >
+        </DataArray>
+        <DataArray type="Float32" Name="REF4" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="11199"               >
+        </DataArray>
+        <Array type="String" Name="REGIME" format="appended" offset="11419"               />
+        <DataArray type="Float32" Name="S1AZ" format="appended" RangeMin="223"                  RangeMax="316"                  offset="11533"               >
+        </DataArray>
+        <DataArray type="Float32" Name="S1PL" format="appended" RangeMin="34"                   RangeMax="49"                   offset="11753"               >
+        </DataArray>
+        <DataArray type="Float32" Name="S2AZ" format="appended" RangeMin="179"                  RangeMax="336"                  offset="11973"               >
+        </DataArray>
+        <DataArray type="Float32" Name="S2PL" format="appended" RangeMin="19"                   RangeMax="47"                   offset="12193"               >
+        </DataArray>
+        <DataArray type="Float32" Name="S3AZ" format="appended" RangeMin="63"                   RangeMax="80"                   offset="12413"               >
+        </DataArray>
+        <DataArray type="Float32" Name="S3PL" format="appended" RangeMin="22"                   RangeMax="35"                   offset="12633"               >
+        </DataArray>
+        <DataArray type="Float32" Name="SAMP_INT" format="appended" RangeMin="84"                   RangeMax="239"                  offset="12853"               >
+        </DataArray>
+        <DataArray type="Float32" Name="SD" format="appended" RangeMin="0"                    RangeMax="45"                   offset="13073"               >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES1" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="13293"               >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES2" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="13513"               >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="13733"               >
+        </DataArray>
+        <DataArray type="Float32" Name="TOP" format="appended" RangeMin="282"                  RangeMax="2688"                 offset="13953"               >
+        </DataArray>
+        <DataArray type="Float32" Name="TOT_LEN" format="appended" RangeMin="0"                    RangeMax="1200"                 offset="14173"               >
+        </DataArray>
+        <Array type="String" Name="TYPE" format="appended" offset="14393"               />
+        <DataArray type="Float32" Name="Unnamed: 60" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="14592"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 61" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="14812"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 62" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="15032"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 63" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="15252"               >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 64" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="15472"               >
+        </DataArray>
+        <DataArray type="Float32" Name="YOUNG" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="15692"               >
+        </DataArray>
+        <DataArray type="Float32" Name="vector" NumberOfComponents="3" format="appended" RangeMin="0"                    RangeMax="0.99999999401"        offset="15912"               >
+          <InformationKey name="L2_NORM_FINITE_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0
+            </Value>
+            <Value index="1">
+              0.99999999401
+            </Value>
+          </InformationKey>
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0
+            </Value>
+            <Value index="1">
+              0.99999999401
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="appended" RangeMin="4666353.9615"         RangeMax="5265127.3559"         offset="16556"               >
+          <InformationKey name="L2_NORM_FINITE_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              4666353.9615
+            </Value>
+            <Value index="1">
+              5265127.3559
+            </Value>
+          </InformationKey>
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              4666353.9615
+            </Value>
+            <Value index="1">
+              5265127.3559
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </Points>
+      <Verts>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="17200"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="17632"               />
+      </Verts>
+      <Lines>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="18064"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="18072"               />
+      </Lines>
+      <Strips>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="18080"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="18088"               />
+      </Strips>
+      <Polys>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="18096"               />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="18104"               />
+      </Polys>
+    </Piece>
+  </PolyData>
+  <AppendedData encoding="raw">
+   _‘       	      Ç      }      
+      ä   ô      ™   
+   ™         ®   •   ±               x   9   V      *   ¶   ±      Á     ™   Æ   ≤   E   ß   Æ   ¨   Ç   ò   J   7   ,   Á  Á  Á  Á     5   %       ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿ ¿âD  ıD  ÓC ÄD @)E ¿âD  ÿD ¿pD Ä3D  ¿ Ä™D `àD `∂D  ¿ Ä≤D ÄvD  JD  §D @ïD @ÖD  àD‘       SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB SUB CCB CTF SUB SUB SUB SUB SUB SUB SUB SUB SUB CCB CTF CTF CTF SUB SUB SUB SUB SUB SUB SUB SUB *      Crosstrend at azi=110 deg. - general N-NE topographic elongation. Reg. assigned individually. Crosstrend at azi=72 deg. - poorly developed N-NE topographic elongation. Reg. assigned individually. Crosstrend in northern part of Three Sisters region. Reg. assigned individually. Northern part of Three Sisters region. Reg. assigned individually. Secondary trend - a third possibility may be azi=50 deg (N=2 - V=15 - TL=16km) and might not be valid. Reg. assigned indivi This is one of 3 possible modes - reported as primary trend because it is consistent with surrounding pts. Reg. assigned Crosstrend at azi=109 deg. - topography is elongated in N-NE direction at each individual alignment. Reg. assigned indivi General N-NE topographic elongation. Reg. assigned individually. Crosstrend at azi=57 deg. Reg. assigned individually. No topographic elongation noted. Reg. assigned individually. Crosstrend at azi=108 deg. - poorly developed N-NE topographic elongation. Reg. assigned individually. Crosstrend at azi=96 deg. - on crest on Cascades so there is well developed N-NE topographic elongation. Reg. assigned in There are 2 alignments at azi=10 deg - with 3 cones each - to the W of this pt - no topographic elongation noted. Reg. assi Probably younger than 25 ka - poorly developed N-NW topographic elongation. Reg. assigned individually. Includes Bachelor Butte - minor secondary trend at azi=37 deg. - general N-S topographic elongation. Reg. assigned individ Two crosstrends: azi=100 deg. - azi=146 deg. Reg. assigned individually. Replaced by several pts. of alignments measured from more recent maps. Reg. assigned individually. Replaced by several alignments measured from more recent maps. Reg. assigned individually. Replaced by several alignments measured from more recent maps. Reg. assigned individually. Crosstrend at azi=110 deg. - well developed N-NE topographic elongation. Reg. assigned individually. 3 separate trends (none is dominant): 178+-9 deg (N=7) - 43+-10 deg (N=12) - 125 +-18 (N=7) - circular topography. Reg. ass Crosstrend at azi=88 deg. - on crest of Cascades so N-NE topographic elongation. Reg. assigned individually. Essentially circular topography. Reg. assigned individually. Third trend. Reg. assigned individually. Third trend. Reg. assigned individually. Secondary trend. Reg. assigned individually. Dominant trend. Reg. assigned individually. Secondary trend. Reg. assigned individually. Equivalent to general trend through N and S of Newberry Crater. Reg. assigned individually. 3 separate trends - (dominant one reported) - others are 43+-12 deg (N=4) - 74+-13 deg (N=4) - circular topography. Reg. ass any additional info available? Reg. assigned individually. PATTZA91 #86 - T axis well constrained - P and B lie in perpendicular plane Reg. assigned individually. WERNGR90 #14 - primary mode. WERNGR90 #18 WERNGR90 #17 WERNGR90 #16 WERNGR90 #15 WERNGR90 #14 - secondary mode. WERNGR90 #13 WERNGR90 #12 WERNGR90 #11 No details - not well documented in either reference. MOUNSU90 #W9 MOUNSU90 #W8 MOUNSU90 #W7 planes constrained to <+ - - 10deg with available data Reg. assigned individually. WSM in-house interpretation -FMS WSM in-house interpretation -FMS WSM in-house interpretation -FMS WSM in-house interpretation -FMS WSM in-house interpretation -FMS WSM in-house interpretation -FMS WSM in-house interpretation -FMS †      United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States United States Sea Sea Sea Sea Sea Sea Sea ‘                                                                                                                               ÖÎ1@  †@ÏQ8?è¬µ?ÖÎ>∏?ÕÃ,@ÏQ8?ˆ(‹?)\O?◊£0?    è¬u?=
+W?§pù?   A)\Ø?{n?∏E?ˆ(ú?q=ä?fff?∏Ö?‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘                 $  $  (  0  0  '  ˇ     1  *  &    w  .    1    #  Í   J  M  M  M  J  J        ä   Z   Ö   z   ¨   ä   †   ∏   ∂   ﬂ  å   ™   °   B                       ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿›      wsm03901 wsm03902 wsm03903 wsm03904 wsm03905 wsm03906 wsm03907 wsm03908 wsm03909 wsm03910 wsm03900 wsm03911 wsm03913 wsm03914 wsm03915 wsm03916 wsm03919 wsm03920 wsm03921 wsm03912 wsm03899 wsm03897 wsm03898 wsm03889 wsm03890 wsm03891 wsm03892 wsm03893 wsm03894 wsm03896 wsm03985 wsm04633 wsm01239 wsm01241 wsm01242 wsm01243 wsm01244 wsm01245 wsm01247 wsm01248 wsm01249 wsm01016 wsm01030 wsm01031 wsm01032 wsm03603 wsm14415 wsm14410 wsm14409 wsm14483 wsm14237 wsm14213 wsm14207 z      USA961 USA960 USA959 USA958 USA957 USA956 USA955 USA954 USA953 USA952 USA962 USA951 USA949 USA948 USA947 USA946 USA943 USA942 USA941 USA950 USA963 USA965 USA964 USA973 USA972 USA971 USA970 USA969 USA968 USA966 USA865 USA1124 USA166 USA164 USA163 USA162 USA161 USA160 USA159 USA158 USA157 USA37 USA357 USA356 USA355 USA785 SEA7656 SEA7661 SEA7662 SEA7586 SEA7848 SEA7873 SEA7879 ‘       ◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0◊E0ÿE0R0R0R0R0R0R0R0R0R0R0R0R0R0“E0Ïg2Ïg2Ïg2Ïg2Ïg2Ïg2Ïg2‘         .B  /B  1B  1Bff0Bff0Böô0B331Böô1B  2BÕÃ,B  2BÕÃ/Bff/Böô/Böô/B  .Böô/Bff1Böô.B33+Bff2BÕÃ)Bff/Böô.Böô.Böô.Bff/Bff/B  3B  *B·z$Byi.BÍ,B\è-BÈ¶-B¥»-Byi.B∏/B√ı0B¥»2BÕÃ,BÅB=
+ Bmg BÆ3BÆG2B®F2B-≤2BX2BX2BﬂO2BX2B‘       ÕLÙ¬  Ù¬ ÄÛ¬ ÄÛ¬ffÛ¬ffÛ¬ÕLÛ¬öÛ¬öÛ¬ÕLÛ¬ÕLÙ¬è¬Û¬öÛ¬ÕLÛ¬ffÛ¬3≥Û¬ffÒ¬33Û¬)‹Û¬33Û¬  Ù¬ffÛ¬3≥Ù¬ ÄÚ¬ ÄÚ¬ ÄÚ¬ ÄÚ¬ ÄÚ¬ ÄÚ¬=äÛ¬  ⁄¬·˙Ú¬w~˜¬ãl¯¬n˜¬^∫˜¬€yˆ¬w~˜¬h—ˆ¬)ˆ¬È&ˆ¬öôÿ¬§∞Ù¬áÙ¬ãlÙ¬\ﬂ¬„%˙¬ÕL˙¬≤]˙¬û/˙¬JL˙¬PM˙¬q=˙¬‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿ü       NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO ‘         B  –A  ÄA  ñB  0A  @A   B  HB   A  †@  ÿA  †@  ∞A  òA  †A  B  PA  ÄA  ÄA  PA  HB  òA  @A  HB  ÄA  pA  C  C  C  B  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ‡@  †@   @   A   @   @  †@  ¿@  Ä?  Ä?  †@  Ä?   @  Ä?  @@  Ä?  ¿@  ¿@  Ä@   @  –A  @@  Ä?   @   @  @@  ¿@  ¿@  †@  Ä@  ¿  ¿  ¿  Ä@  Ä?  @@  Ä?  ‡@  Ä?   @   @  ¿  ®A  ¿@  A  ¿              A  ¿@  †@  Ä?ü       NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿j       E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E E B B D C D D D D D B A B B E E E E E D D D ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿      MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 SCHIXX1986 SCHIXX1986 SCHIXX1986 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 MAGEXX1990 POWESC1976 PATTZA1991 WERNGR1990 WERNGR1990 WERNGR1990 WERNGR1990 WERNGR1990 WERNGR1990 WERNGR1990 WERNGR1990 WERNGR1990 COXXXX1983 MOUNSU1990 MOUNSU1990 MOUNSU1990 DOSEXX1989 ODP ODP ODP ODP ODP ODP ODP ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿j       U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  _C  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ûC  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  DB  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  B  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ®C  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  3C  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  òA  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  <B  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  †B  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  |B  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  B  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ∞A  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ˙B  ⁄B  ®B  ;C  oC  C  ŒB‘         †@   A  ¿  †A  ¿  ¿   A   A  ¿  ¿@  0A  ¿  †@  ¿@   @  ‡@  ¿  ¿  ¿  ¿@  B  A  @@  ¿  ¿  pA  A  ∞A   @  †@  ¿  ¿  êA  ‡@  ¿  PA  ¿  êA  ¿  @@  @A  ¿   A  ÄA  PA  ¿  ¿  ¿  ¿  4B  A  pA    ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  çC ¿]D  ›C  ‹C  (E  çC ¿’D @"D @&D  ¿ ÄD ÄD  yD  ¿ ‡¢D @[D  5D ¿åD ¿nD  fD @vD‘        ÄÑC  ÇC  áC  ÇC  D  zD  ñC  ¥C  ØC Ä"D  C  HD  ñD   C   C  ñC  ¿  ¿  ¿  %C  ÎC  »C  C  C ÄâD  C  ñC  ñC  pC  »C  ¿  ¿  ÜC  ÏB  B  ∂B  òA  ÜC  êA  B  HB  ¿  ¿  ¿  ¿  ¿               A   A  ¿@  @@ø       GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA GVA HF FMS BO BO BO BO BO BO BO BO BO BO BO BO BO FMS BO BO BO BO BO BO BO ‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿‘         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿|                                                                                                                                                                                                                                                                                                                                                                                          IÁƒæN ]?ﬂ∞¶æ                                                                                                                                                            ¬C<£ê.øˇ9;ø                                                                                    |      ”°X…æióJdÊDK<T…‹.òJ∫»”D—zL…¯øôJ«Á D—zL…¯øôJ«Á D[L…87ôJÌ£E[L…87ôJÌ£EÑK…\ôJM≥≤DèLH…S—ôJïîyDOºG…(öJ∂QãD¢I…ﬁãöJ–äDΩ[Z…eñJGÌ…DFìM…™öJ'Í∏DãCJ…z°òJ9È–DÄ…L…üWòJ-≠D¶|M…êâòJ4„¿D#nP…AùòJ˛Õ…D6˘;…úØñJ§`µDSÜK…ä|òJjw¿DìiO…|.öJèYîD£ÏL…h£óJ8P§Dﬂ§Y….ıîJÔŒDÌÇI…'ÈöJ$©±D®©b…ƒÛìJˇ±D[ÓD…1$òJª~¿DÅF…zvóJã·DÅF…zvóJã·DÅF…zvóJã·D[ÓD…1$òJª~¿D[ÓD…1$òJª~¿DtJ…ptõJ*ÕD˜K'H∂‘èJêA√|X…‘˚éJé˜w≈Iãw…Ö§òJ5¸√OìÅ…&•óJ\∂¶ƒ˛Bx…∏ÊóJ@ÿê¿Ì{……òJf°√Cxn…˙—óJÎÀ≈Iãw…Ö§òJ5¸√_≈o…ÃôJŒB≠ƒè˚e…biöJ∂Öƒ¶êc…˘˜õJüTƒæsbH≥ íJªDÈ˙p…˚.ãJƒ»GƒCÓi…Ã{ãJ∑A0ƒÈıl…õ·ãJIÛçƒÄYp∆>nòJy.ß≈ÍÜÖ…Y∑úJæ≈5DÜ…ñ¬úJ†…≈¸7Ü…·"ùJ¥Ù	≈ƒßÖ…>»úJùÏ
+≈ã2Ü…*—úJ†)≈¶>Ü…ç úJ†È≈≠ÍÖ…äÃúJ†©≈®                                                                      	       
+                                                                                                                                                                  !       "       #       $       %       &       '       (       )       *       +       ,       -       .       /       0       1       2       3       4       ®                                                              	       
+                                                                                                                                                                  !       "       #       $       %       &       '       (       )       *       +       ,       -       .       /       0       1       2       3       4       5                                                       
+  </AppendedData>
+</VTKFile>

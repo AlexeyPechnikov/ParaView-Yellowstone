@@ -1,0 +1,170 @@
+<VTKFile type="PolyData" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <PolyData>
+    <Piece NumberOfPoints="12"                   NumberOfVerts="12"                   NumberOfLines="0"                    NumberOfStrips="0"                    NumberOfPolys="0"                   >
+      <PointData>
+      </PointData>
+      <CellData>
+        <DataArray type="Float32" Name="AGE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="0"                   >
+        </DataArray>
+        <DataArray type="Int32" Name="AZI" format="appended" RangeMin="0"                    RangeMax="169"                  offset="56"                  >
+        </DataArray>
+        <DataArray type="Float32" Name="BOT" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="112"                 >
+        </DataArray>
+        <Array type="String" Name="BOUNDARY" format="appended" offset="168"                 />
+        <Array type="String" Name="COUNTRY" format="appended" offset="224"                 />
+        <DataArray type="Float32" Name="DEPTH" format="appended" RangeMin="0"                    RangeMax="25"                   offset="400"                 >
+        </DataArray>
+        <DataArray type="Float32" Name="DIP" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="456"                 >
+        </DataArray>
+        <DataArray type="Float32" Name="DIPAZ" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="512"                 >
+        </DataArray>
+        <DataArray type="Int32" Name="DIST" format="appended" RangeMin="54"                   RangeMax="1322"                 offset="568"                 >
+        </DataArray>
+        <DataArray type="Float32" Name="EQ_AVG" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="624"                 >
+        </DataArray>
+        <Array type="String" Name="ID" format="appended" offset="680"                 />
+        <DataArray type="Int32" Name="LAST_MOD" format="appended" RangeMin="19930706"             RangeMax="20150729"             offset="796"                 >
+        </DataArray>
+        <DataArray type="Float32" Name="LAT" format="appended" RangeMin="40.279998779"         RangeMax="44.880001068"         offset="852"                 >
+        </DataArray>
+        <Array type="String" Name="LOCALITY" format="appended" offset="908"                 />
+        <DataArray type="Float32" Name="LON" format="appended" RangeMin="-123.73999786"        RangeMax="-105.72000122"        offset="1083"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S1" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1139"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S2" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1195"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MAG_INT_S3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1251"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MOM" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1307"                >
+        </DataArray>
+        <DataArray type="Float32" Name="MOM_EXP" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1363"                >
+        </DataArray>
+        <Array type="String" Name="NEW" format="appended" offset="1419"                />
+        <DataArray type="Float32" Name="NO_MAG_VEN" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1467"                >
+        </DataArray>
+        <DataArray type="Float32" Name="NUMBER" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1523"                >
+        </DataArray>
+        <Array type="String" Name="PBE" format="appended" offset="1579"                />
+        <DataArray type="Float32" Name="PLATE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1623"                >
+        </DataArray>
+        <DataArray type="Float32" Name="POISSON" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1679"                >
+        </DataArray>
+        <DataArray type="Float32" Name="PORE_MAGIN" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1735"                >
+        </DataArray>
+        <DataArray type="Float32" Name="PORE_SLOPE" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1791"                >
+        </DataArray>
+        <Array type="String" Name="QUALITY" format="appended" offset="1847"                />
+        <DataArray type="Float32" Name="RATIO" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1879"                >
+        </DataArray>
+        <DataArray type="Float32" Name="REF3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1935"                >
+        </DataArray>
+        <DataArray type="Float32" Name="REF4" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="1991"                >
+        </DataArray>
+        <Array type="String" Name="REGIME" format="appended" offset="2047"                />
+        <DataArray type="Float32" Name="ROCK" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2091"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S1AZ" format="appended" RangeMin="0"                    RangeMax="337"                  offset="2147"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S1PL" format="appended" RangeMin="2"                    RangeMax="35"                   offset="2203"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S2AZ" format="appended" RangeMin="13"                   RangeMax="282"                  offset="2259"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S2PL" format="appended" RangeMin="51"                   RangeMax="80"                   offset="2315"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S3AZ" format="appended" RangeMin="60"                   RangeMax="280"                  offset="2371"                >
+        </DataArray>
+        <DataArray type="Float32" Name="S3PL" format="appended" RangeMin="2"                    RangeMax="36"                   offset="2427"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SAMP_INT" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2483"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SD" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2539"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SD_WEIGHT" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2595"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES1" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2651"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES2" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2707"                >
+        </DataArray>
+        <DataArray type="Float32" Name="SLOPES3" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2763"                >
+        </DataArray>
+        <DataArray type="Float32" Name="TOP" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2819"                >
+        </DataArray>
+        <DataArray type="Float32" Name="TOT_LEN" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2875"                >
+        </DataArray>
+        <Array type="String" Name="TYPE" format="appended" offset="2931"                />
+        <DataArray type="Float32" Name="Unnamed: 60" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="2986"                >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 61" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3042"                >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 62" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3098"                >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 63" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3154"                >
+        </DataArray>
+        <DataArray type="Float32" Name="Unnamed: 64" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3210"                >
+        </DataArray>
+        <DataArray type="Float32" Name="YOUNG" format="appended" RangeMin="9.9999996803e+37"     RangeMax="-9.9999996803e+37"    offset="3266"                >
+        </DataArray>
+        <DataArray type="Float32" Name="vector" NumberOfComponents="3" format="appended" RangeMin="0"                    RangeMax="1.0000000287"         offset="3322"                >
+          <InformationKey name="L2_NORM_FINITE_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0
+            </Value>
+            <Value index="1">
+              1.0000000287
+            </Value>
+          </InformationKey>
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              0
+            </Value>
+            <Value index="1">
+              1.0000000287
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="appended" RangeMin="4611186.3716"         RangeMax="5236033.4081"         offset="3474"                >
+          <InformationKey name="L2_NORM_FINITE_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              4611186.3716
+            </Value>
+            <Value index="1">
+              5236033.4081
+            </Value>
+          </InformationKey>
+          <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+            <Value index="0">
+              4611186.3716
+            </Value>
+            <Value index="1">
+              5236033.4081
+            </Value>
+          </InformationKey>
+        </DataArray>
+      </Points>
+      <Verts>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="3626"                />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="3730"                />
+      </Verts>
+      <Lines>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="3834"                />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="3842"                />
+      </Lines>
+      <Strips>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="3850"                />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="3858"                />
+      </Strips>
+      <Polys>
+        <DataArray type="Int64" IdType="1" Name="connectivity" format="appended" RangeMin=""                     RangeMax=""                     offset="3866"                />
+        <DataArray type="Int64" IdType="1" Name="offsets" format="appended" RangeMin=""                     RangeMax=""                     offset="3874"                />
+      </Polys>
+    </Piece>
+  </PolyData>
+  <AppendedData encoding="raw">
+   _0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0       Ä   R   ñ      Ñ                ñ   M   ©   0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0       CTF SUB CTF SUB SUB SUB CTF CTF CTF CTF SUB CCB ®       United States United States United States United States United States United States United States United States United States United States United States United States 0         ®A    §pΩ>  †A  ÄA  †A  Ä@  †@  †A  »AöôAA   @0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0       *  >    É   ñ  É   ≈  -  6       ¯   0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿l       wsm03067 wsm03064 wsm03984 wsm04156 wsm33756 wsm20479 wsm00934 wsm00946 wsm00953 wsm32514 wsm29280 wsm04634 0       –E0–E0◊E0◊E0…y3F)3R0R0R0…y3…y3ÿE00        Ä)B333B33&BÖ3Bff3BÖ3B§p(BÆ!B∏!B·z!B§p2BÕÃ%Bß       LaramieMtns MadisonVall GreenRiver offCA-ORbo YellowstoneRegionWyoming WestofSalem PocatelloVa NorthernCA NorthernCA NorthernCalifornia <BUT>WESTERNMONTANA CACascades 0       §p”¬33ﬂ¬fÊ⁄¬·z˜¬§‹¬·z˜¬·˙‡¬ˆ(Ò¬Ha˜¬◊£Ò¬.‡¬è¬Û¬0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿(       NO NO NO NO YES YES NO NO NO YES YES NO 0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿$       NO NO NO NO NO NO NO NO NO NO NO NO 0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿       C C C C C C C C C C C C 0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿$       SS SS SS SS SS SS SS SS SS SS SS SS 0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         úC  ÉC  ¿  ¿  úC      PA  8C  @@  †C ÄÅC Ä®C0         B  pA  ¿  ¿  A  ¿  Ä@  ¿@   @   B  ‡A  B0         ÚB  PA  ¿  ¿  ˆB  ¿  ÿB  çC  ¬B  +C  êB  @C0         XB  TB  ¿  ¿  †B  ¿  TB  TB  `B  TB  xB  LB0         ZC  #C  ¿  ¿  ^C  ¿  åC  ¥B ÄáC  pB  'C  ûB0         †@  B  ¿  ¿   @  ¿  B  B  B  pA  @@  àA0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿/       FMS FMS OC FMS FMS FMS FMS FMS FMS FMS FMS FMS 0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿0         ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿  ¿ê       Û÷øìQ?Ë’ø€ﬁtø@®	æÓÉÑæ                        !Á;ø@0)?[0 æ            Ï…e>ƒ‘x?{‹éΩ"éΩ8˙}ø÷ΩÃ<V=Q~?∆ÚΩ•åø˘N&? ®ø∑·]øäÑ,æî^æô«ßæ–°E?wmøê       Q2◊H°-èJcëë∆K÷´∆õ	òJßREóü˚G‘™åJÔ◊D35o…¶˜úJÿ„ò∆•TÑG˚ òJYS∆35o…¶˜úJÿ„ò∆≈9È«àèJ[ë≈˘7I…p(åJL4\≈4pÖ…ˇLçJ9Âò∆wwN…˛åJÔµ∆ˆÑt«Q~óJ>¥∆’∑^…NêJhöJ√`                                                                       	       
+              `                                                               	       
+                                                                     
+  </AppendedData>
+</VTKFile>

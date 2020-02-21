@@ -1,0 +1,6 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="Rift zone / Continental crust (&gt;25 km)" file="volcanoes.32613/volcanoes.32613_0_0.vtp"/>
+    <DataSet index="1" name="Subduction zone / Continental crust (&gt;25 km)" file="volcanoes.32613/volcanoes.32613_1_0.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>

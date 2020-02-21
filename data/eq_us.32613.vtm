@@ -1,0 +1,15 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="chemical explosion" file="eq_us.32613/eq_us.32613_0_0.vtp"/>
+    <DataSet index="1" name="earthquake" file="eq_us.32613/eq_us.32613_1_0.vtp"/>
+    <DataSet index="2" name="explosion" file="eq_us.32613/eq_us.32613_2_0.vtp"/>
+    <DataSet index="3" name="landslide" file="eq_us.32613/eq_us.32613_3_0.vtp"/>
+    <DataSet index="4" name="mine collapse" file="eq_us.32613/eq_us.32613_4_0.vtp"/>
+    <DataSet index="5" name="mining explosion" file="eq_us.32613/eq_us.32613_5_0.vtp"/>
+    <DataSet index="6" name="other event" file="eq_us.32613/eq_us.32613_6_0.vtp"/>
+    <DataSet index="7" name="quarry" file="eq_us.32613/eq_us.32613_7_0.vtp"/>
+    <DataSet index="8" name="quarry blast" file="eq_us.32613/eq_us.32613_8_0.vtp"/>
+    <DataSet index="9" name="rock burst" file="eq_us.32613/eq_us.32613_9_0.vtp"/>
+    <DataSet index="10" name="sonic boom" file="eq_us.32613/eq_us.32613_10_0.vtp"/>
+  </vtkMultiBlockDataSet>
+</VTKFile>
